@@ -1,1 +1,2 @@
 Hello nama saya Deni Saputra Waluyo
+Saya suka Kotlin dan Pengembangan Android
